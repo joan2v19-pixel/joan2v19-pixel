@@ -44,21 +44,6 @@ Me gustaría seguir profundizando en diferentes áreas de la tecnología:
 
 ---
 
-## 🚀 Proyectos destacados
-
-### 🏪 JokaTrix
-
-Sistema digital de gestión de inventarios y ventas para La Casa de los Aperos.
-
-- Gestión de productos e inventario.
-- Administración de clientes y proveedores.
-- Facturación y ventas.
-- Desarrollo de funcionalidades web.
-
-**Tecnologías:** C#, ASP.NET Core, Angular y SQL Server.
-
----
-
 ## 📫 Contacto
 
 <div align="center">
