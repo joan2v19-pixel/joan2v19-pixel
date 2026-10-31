@@ -60,6 +60,4 @@ Me gustaría seguir profundizando en diferentes áreas de la tecnología:
 
 ### 💡 "El aprendizaje nunca termina; cada proyecto es una oportunidad para mejorar."
 
-![Profile Views](https://komarev.com/ghpvc/?username=joan2v19-pixel&color=blueviolet&style=flat-square&label=Visitas+al+perfil)
-
 </div>
