@@ -53,11 +53,3 @@ Me gustaría seguir profundizando en diferentes áreas de la tecnología:
 [![GitHub](https://img.shields.io/badge/GitHub-joan2v19--pixel-181717?style=for-the-badge&logo=github)](https://github.com/joan2v19-pixel)
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 "El aprendizaje nunca termina; cada proyecto es una oportunidad para mejorar."
-
-</div>
